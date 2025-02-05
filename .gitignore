@@ -1,0 +1,26 @@
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Bytecode & cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs & temp files
+*.log
+*.csv
+*.sqlite3
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.swp
+
+# Environment variables
+.env
