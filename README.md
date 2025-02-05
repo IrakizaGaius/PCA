@@ -8,7 +8,7 @@ List of software and libraries required to run the notebook:
 
 - Python 3.x
 - Jupyter Notebook
-- Required Python libraries (e.g., numpy, pandas, matplotlib, scikit-learn)
+- Required Python libraries (e.g., numpy, pandas, matplotlib)
 
 You can install the required libraries using:
 
@@ -21,7 +21,7 @@ pip install -r requirements.txt
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/IrakizaGaius/PCA.git
 ```
 
 2.Navigate to the project directory:
